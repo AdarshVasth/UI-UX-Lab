@@ -1,0 +1,141 @@
+login frame 
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844">
+
+<rect width="390" height="844" fill="#29406B"/>
+
+<circle cx="195" cy="140" r="55" fill="#D9E8FF"/>
+<circle cx="195" cy="125" r="20" fill="#6C8CC7"/>
+<path d="M165 160 Q195 130 225 160" fill="#6C8CC7"/>
+
+<text x="195" y="230" text-anchor="middle" fill="white"
+font-size="24" font-weight="bold">
+Login / Sign Up
+</text>
+
+<rect x="45" y="280" width="300" height="45" fill="#F4DADA"/>
+<text x="60" y="308">Username</text>
+
+<rect x="45" y="350" width="300" height="45" fill="#F4DADA"/>
+<text x="60" y="378">Password</text>
+
+<rect x="45" y="430" width="300" height="45" fill="#000"/>
+<text x="195" y="460" fill="white" text-anchor="middle">
+LOGIN
+</text>
+
+<rect x="45" y="490" width="300" height="45" fill="#000"/>
+<text x="195" y="520" fill="white" text-anchor="middle">
+RESET PASSWORD
+</text>
+
+</svg>
+
+Frame 2 - Loading
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844">
+
+<rect width="390" height="844" fill="#29406B"/>
+
+<circle cx="195" cy="380" r="45"
+fill="none"
+stroke="#D9E8FF"
+stroke-width="10"/>
+
+<circle cx="195" cy="380" r="45"
+fill="none"
+stroke="#FFD54F"
+stroke-width="10"
+stroke-dasharray="90 200"/>
+
+<text x="195" y="500"
+text-anchor="middle"
+fill="white"
+font-size="24">
+LOADING...
+</text>
+
+</svg>
+
+Frame 3 - Error Screen
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844">
+
+<rect width="390" height="844" fill="#29406B"/>
+
+<polygon points="195,220 150,310 240,310"
+fill="#FFD54F"
+stroke="#000"/>
+
+<text x="195"
+y="295"
+font-size="40"
+text-anchor="middle">
+!
+</text>
+
+<rect x="70"
+y="380"
+width="250"
+height="130"
+rx="12"
+fill="#FFF8C4"/>
+
+<text x="195"
+y="430"
+text-anchor="middle"
+font-size="16">
+Something went wrong.
+</text>
+
+<text x="195"
+y="460"
+text-anchor="middle"
+font-size="16">
+Please try resetting
+</text>
+
+<text x="195"
+y="490"
+text-anchor="middle"
+font-size="16">
+your password.
+</text>
+
+</svg>
+
+Frame 4 - Reset Password
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844">
+
+<rect width="390" height="844" fill="#29406B"/>
+
+<text x="195"
+y="180"
+text-anchor="middle"
+fill="white"
+font-size="28"
+font-weight="bold">
+RESET PASSWORD
+</text>
+
+<rect x="45" y="280" width="300" height="45" fill="#FFFFFF"/>
+<text x="60" y="308">Email</text>
+
+<rect x="45" y="350" width="300" height="45" fill="#FFFFFF"/>
+<text x="60" y="378">New Password</text>
+
+<rect x="45" y="420" width="300" height="45" fill="#FFFFFF"/>
+<text x="60" y="448">Confirm Password</text>
+
+<rect x="95"
+y="520"
+width="200"
+height="50"
+rx="8"
+fill="#5B8C85"/>
+
+<text x="195"
+y="552"
+fill="white"
+text-anchor="middle">
+RESET
+</text>
+
+</svg>
