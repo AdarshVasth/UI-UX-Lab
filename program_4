@@ -1,0 +1,163 @@
+Frame 1: Home
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900">
+
+<rect width="1440" height="900" fill="#FFFFFF"/>
+
+<rect width="1440" height="80" fill="#7FA36B"/>
+
+<text x="100" y="50" font-size="28" font-weight="bold">
+Plant Store
+</text>
+
+<text x="700" y="50">Home</text>
+<text x="800" y="50">Products</text>
+<text x="920" y="50">About</text>
+<text x="1020" y="50">Contact</text>
+
+<line x1="690" y1="60" x2="740" y2="60"
+stroke="black"
+stroke-width="3"/>
+
+<rect x="150" y="180"
+width="1140"
+height="350"
+rx="15"
+fill="#E8F0EF"/>
+
+<text x="250"
+y="320"
+font-size="60"
+font-weight="bold">
+For all your plant needs
+</text>
+
+<circle cx="980"
+cy="350"
+r="140"
+fill="#222"/>
+
+</svg>
+Frame 2: About
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900">
+
+<rect width="1440" height="900" fill="white"/>
+
+<rect width="1440" height="80" fill="#7FA36B"/>
+
+<text x="100" y="50" font-size="28" font-weight="bold">
+Plant Store
+</text>
+
+<text x="700" y="50">Home</text>
+<text x="800" y="50">Products</text>
+<text x="920" y="50">About</text>
+<text x="1020" y="50">Contact</text>
+
+<line x1="900" y1="60" x2="960" y2="60"
+stroke="black"
+stroke-width="3"/>
+
+<rect x="180" y="180"
+width="350"
+height="450"
+fill="#EAEAEA"/>
+
+<rect x="650"
+y="200"
+width="500"
+height="300"
+fill="#F8F8F8"/>
+
+<text x="700"
+y="260"
+font-size="34"
+font-weight="bold">
+Story Of Our Journey
+</text>
+
+<text x="700"
+y="330"
+font-size="22">
+Helping people connect with nature.
+</text>
+
+</svg>
+
+Frame 3: Products
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900">
+
+<rect width="1440" height="900" fill="white"/>
+
+<rect width="1440" height="80" fill="#7FA36B"/>
+
+<text x="100" y="50" font-size="28" font-weight="bold">
+Plant Store
+</text>
+
+<text x="700" y="50">Home</text>
+<text x="800" y="50">Products</text>
+<text x="920" y="50">About</text>
+<text x="1020" y="50">Contact</text>
+
+<line x1="790" y1="60" x2="900" y2="60"
+stroke="black"
+stroke-width="3"/>
+
+<rect x="120" y="180" width="220" height="220" fill="#F2F2F2"/>
+<rect x="380" y="180" width="220" height="220" fill="#F2F2F2"/>
+<rect x="640" y="180" width="220" height="220" fill="#F2F2F2"/>
+<rect x="900" y="180" width="220" height="220" fill="#F2F2F2"/>
+
+<rect x="120" y="470" width="220" height="220" fill="#F2F2F2"/>
+<rect x="380" y="470" width="220" height="220" fill="#F2F2F2"/>
+<rect x="640" y="470" width="220" height="220" fill="#F2F2F2"/>
+<rect x="900" y="470" width="220" height="220" fill="#F2F2F2"/>
+
+</svg>
+
+
+Frame 4: Contact
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900">
+
+<rect width="1440" height="900" fill="white"/>
+
+<rect width="1440" height="80" fill="#7FA36B"/>
+
+<text x="100" y="50" font-size="28" font-weight="bold">
+Plant Store
+</text>
+
+<text x="700" y="50">Home</text>
+<text x="800" y="50">Products</text>
+<text x="920" y="50">About</text>
+<text x="1020" y="50">Contact</text>
+
+<line x1="1010" y1="60" x2="1095" y2="60"
+stroke="black"
+stroke-width="3"/>
+
+<text x="350"
+y="220"
+font-size="40"
+font-weight="bold">
+Send Us A Message
+</text>
+
+<rect x="250" y="280" width="500" height="50" fill="#F3F4F6"/>
+<rect x="250" y="360" width="500" height="50" fill="#F3F4F6"/>
+<rect x="250" y="440" width="500" height="150" fill="#F3F4F6"/>
+
+<rect x="400"
+y="650"
+width="180"
+height="55"
+fill="#22C55E"/>
+
+<text x="490"
+y="685"
+text-anchor="middle"
+fill="white">
+Submit
+</text>
+
+</svg>
