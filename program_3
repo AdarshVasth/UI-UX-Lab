@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000">
+
+  <!-- Tablet Frame -->
+  <rect width="800" height="1000" fill="#222"/>
+
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F6C26B"/>
+      <stop offset="50%" stop-color="#C98B52"/>
+      <stop offset="100%" stop-color="#4E3A2A"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="40" y="40" width="720" height="920" fill="url(#bg)"/>
+
+  <!-- Overlay -->
+  <rect x="40" y="40" width="720" height="920"
+        fill="#000" opacity="0.25"/>
+
+  <!-- Title -->
+  <text x="400"
+        y="100"
+        text-anchor="middle"
+        font-size="32"
+        font-family="Arial"
+        font-weight="bold"
+        fill="black">
+        Marathon Application Form
+  </text>
+
+  <!-- Full Name -->
+  <text x="140" y="180"
+        fill="black"
+        font-size="22"
+        font-weight="bold">
+        Full Name
+  </text>
+
+  <rect x="140" y="190"
+        width="180"
+        height="45"
+        fill="#FFF"
+        opacity="0.8"/>
+
+  <rect x="360" y="190"
+        width="180"
+        height="45"
+        fill="#FFF"
+        opacity="0.8"/>
+
+  <text x="155" y="220" fill="#777">First</text>
+  <text x="375" y="220" fill="#777">Last</text>
+
+  <!-- Email -->
+  <text x="140" y="290"
+        fill="black"
+        font-size="22"
+        font-weight="bold">
+        Email Address
+  </text>
+
+  <rect x="140"
+        y="300"
+        width="400"
+        height="45"
+        fill="#FFF"
+        opacity="0.8"/>
+
+  <text x="155" y="330" fill="#777">EMAIL</text>
+
+  <!-- Phone -->
+  <text x="140"
+        y="400"
+        fill="black"
+        font-size="22"
+        font-weight="bold">
+        Phone No
+  </text>
+
+  <rect x="140"
+        y="410"
+        width="400"
+        height="45"
+        fill="#FFF"
+        opacity="0.8"/>
+
+  <text x="155" y="440" fill="#777">Ph no</text>
+
+  <!-- Birthday -->
+  <text x="140"
+        y="510"
+        fill="black"
+        font-size="22"
+        font-weight="bold">
+        Birth Day
+  </text>
+
+  <rect x="140"
+        y="520"
+        width="250"
+        height="45"
+        fill="#FFF"
+        opacity="0.8"/>
+
+  <text x="155" y="550" fill="#777">DD/MM/YYYY</text>
+
+  <!-- Submit -->
+  <rect x="290"
+        y="650"
+        width="220"
+        height="60"
+        rx="10"
+        fill="#111"/>
+
+  <text x="400"
+        y="690"
+        text-anchor="middle"
+        fill="white"
+        font-size="24">
+        Submit
+  </text>
+
+</svg>
