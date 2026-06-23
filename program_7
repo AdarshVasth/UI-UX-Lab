@@ -86,7 +86,46 @@ fill="white"/>
 
 </svg>
 
-Frame 4 — Volume Slider High
+
+Frame 4 -Volume 60% 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250">
+
+<rect width="400" height="250" fill="#111827"/>
+
+<text x="200"
+y="50"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-weight="bold">
+Volume 60%
+</text>
+
+<text x="200"
+y="110"
+text-anchor="middle"
+fill="white"
+font-size="50">
+🔉
+</text>
+
+<line x1="60"
+y1="190"
+x2="340"
+y2="190"
+stroke="#EF4444"
+stroke-width="4"/>
+
+<circle cx="228"
+cy="190"
+r="12"
+fill="white"/>
+
+</svg>
+
+
+Frame 5 — Volume Slider High
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="250">
 
 <rect width="400" height="250" fill="#111827"/>
@@ -116,6 +155,43 @@ stroke="#EF4444"
 stroke-width="4"/>
 
 <circle cx="300"
+cy="190"
+r="12"
+fill="white"/>
+
+</svg>
+
+Frame-6 Highest volume possible 
+
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250">
+
+<rect width="400" height="250" fill="#111827"/>
+
+<text x="200"
+y="50"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-weight="bold">
+Volume 100%
+</text>
+
+<text x="200"
+y="110"
+text-anchor="middle"
+fill="white"
+font-size="50">
+🔊
+</text>
+
+<line x1="60"
+y1="190"
+x2="340"
+y2="190"
+stroke="#EF4444"
+stroke-width="4"/>
+
+<circle cx="340"
 cy="190"
 r="12"
 fill="white"/>
