@@ -1,4 +1,7 @@
 Frame 1 — Toggle OFF
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
 
 <rect width="300" height="200" fill="#F8FAFC"/>
@@ -24,7 +27,13 @@ fill="white"/>
 
 </svg>
 
+
+
 Frame 2 — Toggle ON
+
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
 
 <rect width="300" height="200" fill="#F8FAFC"/>
@@ -50,7 +59,14 @@ fill="white"/>
 
 </svg>
 
+
+
+
 Frame 3 — Volume Slider Low
+
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="250">
 
 <rect width="400" height="250" fill="#111827"/>
@@ -87,7 +103,12 @@ fill="white"/>
 </svg>
 
 
+
+
 Frame 4 -Volume 60% 
+
+
+
 
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="250">
 
@@ -125,7 +146,13 @@ fill="white"/>
 </svg>
 
 
+
+
 Frame 5 — Volume Slider High
+
+
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="250">
 
 <rect width="400" height="250" fill="#111827"/>
@@ -197,3 +224,358 @@ r="12"
 fill="white"/>
 
 </svg>
+
+
+
+
+WEBSITE FRAME Dark Mode 
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0F172A"/>
+    <stop offset="100%" stop-color="#1E293B"/>
+  </linearGradient>
+
+  <linearGradient id="hero" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#2563EB"/>
+    <stop offset="100%" stop-color="#7C3AED"/>
+  </linearGradient>
+</defs>
+
+<rect width="800" height="500" fill="url(#bg)"/>
+
+<!-- Navbar -->
+<rect width="800" height="70" fill="#111827"/>
+
+<text x="30" y="45"
+font-size="28"
+font-weight="bold"
+fill="#60A5FA">
+ShopX
+</text>
+
+<rect x="180" y="18" width="250" height="35" rx="18" fill="#374151"/>
+<text x="200" y="40" fill="#9CA3AF">🔍 Search Products</text>
+
+<text x="650" y="42" fill="white" font-size="22">♡</text>
+<text x="700" y="42" fill="white" font-size="22">🛒</text>
+
+<!-- Toggle -->
+<rect x="740" y="22" width="45" height="22" rx="11" fill="#2563EB"/>
+<circle cx="772" cy="33" r="9" fill="white"/>
+
+<!-- Hero Banner -->
+<rect x="30" y="90" width="740" height="120" rx="20" fill="url(#hero)"/>
+
+<text x="60" y="140"
+font-size="34"
+font-weight="bold"
+fill="white">
+Mega Summer Sale
+</text>
+
+<text x="60" y="175"
+font-size="18"
+fill="white">
+Up to 70% OFF on Fashion & Electronics
+</text>
+
+<rect x="60" y="185" width="120" height="40" rx="20" fill="white"/>
+<text x="120" y="210"
+text-anchor="middle"
+font-size="16"
+font-weight="bold"
+fill="#2563EB">
+Shop Now
+</text>
+
+<!-- Categories -->
+<rect x="30" y="240" width="110" height="40" rx="20" fill="#2563EB"/>
+<text x="85" y="265" text-anchor="middle" fill="white">Fashion</text>
+
+<rect x="155" y="240" width="110" height="40" rx="20" fill="#374151"/>
+<text x="210" y="265" text-anchor="middle" fill="white">Shoes</text>
+
+<rect x="280" y="240" width="110" height="40" rx="20" fill="#374151"/>
+<text x="335" y="265" text-anchor="middle" fill="white">Phones</text>
+
+<rect x="405" y="240" width="110" height="40" rx="20" fill="#374151"/>
+<text x="460" y="265" text-anchor="middle" fill="white">Gaming</text>
+
+<!-- Product Card 1 -->
+<rect x="30" y="310" width="170" height="150" rx="20" fill="#1F2937"/>
+
+<rect x="45" y="325" width="140" height="70" rx="12" fill="#2563EB"/>
+<text x="115" y="372"
+text-anchor="middle"
+font-size="40">
+👟
+</text>
+
+<text x="115" y="420"
+text-anchor="middle"
+fill="white"
+font-weight="bold">
+Nike Air Max
+</text>
+
+<text x="115" y="442"
+text-anchor="middle"
+fill="#60A5FA">
+₹4,999
+</text>
+
+<!-- Product Card 2 -->
+<rect x="220" y="310" width="170" height="150" rx="20" fill="#1F2937"/>
+
+<rect x="235" y="325" width="140" height="70" rx="12" fill="#7C3AED"/>
+<text x="305" y="372"
+text-anchor="middle"
+font-size="40">
+📱
+</text>
+
+<text x="305" y="420"
+text-anchor="middle"
+fill="white"
+font-weight="bold">
+iPhone
+</text>
+
+<text x="305" y="442"
+text-anchor="middle"
+fill="#60A5FA">
+₹79,999
+</text>
+
+<!-- Product Card 3 -->
+<rect x="410" y="310" width="170" height="150" rx="20" fill="#1F2937"/>
+
+<rect x="425" y="325" width="140" height="70" rx="12" fill="#059669"/>
+<text x="495" y="372"
+text-anchor="middle"
+font-size="40">
+⌚
+</text>
+
+<text x="495" y="420"
+text-anchor="middle"
+fill="white"
+font-weight="bold">
+Smart Watch
+</text>
+
+<text x="495" y="442"
+text-anchor="middle"
+fill="#60A5FA">
+₹9,999
+</text>
+
+<!-- Product Card 4 -->
+<rect x="600" y="310" width="170" height="150" rx="20" fill="#1F2937"/>
+
+<rect x="615" y="325" width="140" height="70" rx="12" fill="#DC2626"/>
+<text x="685" y="372"
+text-anchor="middle"
+font-size="40">
+🎧
+</text>
+
+<text x="685" y="420"
+text-anchor="middle"
+fill="white"
+font-weight="bold">
+Headphones
+</text>
+
+<text x="685" y="442"
+text-anchor="middle"
+fill="#60A5FA">
+₹2,999
+</text>
+
+</svg>
+
+
+
+
+
+Website Frame Light mode 
+
+
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+
+<defs>
+  <linearGradient id="hero" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#3B82F6"/>
+    <stop offset="100%" stop-color="#A855F7"/>
+  </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="800" height="500" fill="#F8FAFC"/>
+
+<!-- Navbar -->
+<rect width="800" height="70" fill="#FFFFFF"/>
+
+<text x="30" y="45"
+font-size="28"
+font-weight="bold"
+fill="#2563EB">
+ShopX
+</text>
+
+<!-- Search Bar -->
+<rect x="180" y="18" width="250" height="35" rx="18" fill="#E5E7EB"/>
+<text x="200" y="40" fill="#6B7280">🔍 Search Products</text>
+
+<!-- Icons -->
+<text x="650" y="42" fill="#111827" font-size="22">♡</text>
+<text x="700" y="42" fill="#111827" font-size="22">🛒</text>
+
+<!-- Toggle Light Mode -->
+<rect x="740" y="22" width="45" height="22" rx="11" fill="#D1D5DB"/>
+<circle cx="753" cy="33" r="9" fill="#FFFFFF"/>
+<text x="720" y="38" font-size="14">☀️</text>
+
+<!-- Hero Banner -->
+<rect x="30" y="90" width="740" height="120" rx="20" fill="url(#hero)"/>
+
+<text x="60" y="140"
+font-size="34"
+font-weight="bold"
+fill="white">
+Mega Summer Sale
+</text>
+
+<text x="60" y="175"
+font-size="18"
+fill="white">
+Up to 70% OFF on Fashion & Electronics
+</text>
+
+<rect x="60" y="185" width="120" height="40" rx="20" fill="white"/>
+<text x="120" y="210"
+text-anchor="middle"
+font-size="16"
+font-weight="bold"
+fill="#2563EB">
+Shop Now
+</text>
+
+<!-- Categories -->
+<rect x="30" y="240" width="110" height="40" rx="20" fill="#2563EB"/>
+<text x="85" y="265" text-anchor="middle" fill="white">Fashion</text>
+
+<rect x="155" y="240" width="110" height="40" rx="20" fill="#E5E7EB"/>
+<text x="210" y="265" text-anchor="middle" fill="#111827">Shoes</text>
+
+<rect x="280" y="240" width="110" height="40" rx="20" fill="#E5E7EB"/>
+<text x="335" y="265" text-anchor="middle" fill="#111827">Phones</text>
+
+<rect x="405" y="240" width="110" height="40" rx="20" fill="#E5E7EB"/>
+<text x="460" y="265" text-anchor="middle" fill="#111827">Gaming</text>
+
+<!-- Product Card 1 -->
+<rect x="30" y="310" width="170" height="150" rx="20" fill="#FFFFFF" stroke="#D1D5DB"/>
+
+<rect x="45" y="325" width="140" height="70" rx="12" fill="#BFDBFE"/>
+<text x="115" y="372"
+text-anchor="middle"
+font-size="40">
+👟
+</text>
+
+<text x="115" y="420"
+text-anchor="middle"
+fill="#111827"
+font-weight="bold">
+Nike Air Max
+</text>
+
+<text x="115" y="442"
+text-anchor="middle"
+fill="#2563EB">
+₹4,999
+</text>
+
+<!-- Product Card 2 -->
+<rect x="220" y="310" width="170" height="150" rx="20" fill="#FFFFFF" stroke="#D1D5DB"/>
+
+<rect x="235" y="325" width="140" height="70" rx="12" fill="#DDD6FE"/>
+<text x="305" y="372"
+text-anchor="middle"
+font-size="40">
+📱
+</text>
+
+<text x="305" y="420"
+text-anchor="middle"
+fill="#111827"
+font-weight="bold">
+iPhone
+</text>
+
+<text x="305" y="442"
+text-anchor="middle"
+fill="#2563EB">
+₹79,999
+</text>
+
+<!-- Product Card 3 -->
+<rect x="410" y="310" width="170" height="150" rx="20" fill="#FFFFFF" stroke="#D1D5DB"/>
+
+<rect x="425" y="325" width="140" height="70" rx="12" fill="#A7F3D0"/>
+<text x="495" y="372"
+text-anchor="middle"
+font-size="40">
+⌚
+</text>
+
+<text x="495" y="420"
+text-anchor="middle"
+fill="#111827"
+font-weight="bold">
+Smart Watch
+</text>
+
+<text x="495" y="442"
+text-anchor="middle"
+fill="#2563EB">
+₹9,999
+</text>
+
+<!-- Product Card 4 -->
+<rect x="600" y="310" width="170" height="150" rx="20" fill="#FFFFFF" stroke="#D1D5DB"/>
+
+<rect x="615" y="325" width="140" height="70" rx="12" fill="#FECACA"/>
+<text x="685" y="372"
+text-anchor="middle"
+font-size="40">
+🎧
+</text>
+
+<text x="685" y="420"
+text-anchor="middle"
+fill="#111827"
+font-weight="bold">
+Headphones
+</text>
+
+<text x="685" y="442"
+text-anchor="middle"
+fill="#2563EB">
+₹2,999
+</text>
+
+</svg>
+
+
